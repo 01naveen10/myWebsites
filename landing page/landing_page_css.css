@@ -1,0 +1,55 @@
+html{height: 100%;}
+body{
+	background-image: url("https://cdn.wallpaperjam.com/content/images/aa/d8/aad86d722d3cd5d25162c9a5e04a82845a121bd2.jpg");
+	background-size: cover;
+	background-position: center;
+
+	background-repeat: no-repeat;
+	
+	font-size: 16px;
+	
+}
+
+.navbar-default{
+	font-family: 'Caveat', cursive;
+	font-size: 1.5em;
+	background-color: transparent;
+	border: none;
+}
+.navbar-default .navbar-brand{
+	color: white;
+}
+.navbar-default .navbar-brand:hover{
+	color: #b4b4b4;
+}
+
+.navbar-default .navbar-nav>li>a {
+	color: white;}
+
+.navbar-default .navbar-nav>li>a:hover {
+	color: #b4b4b4;}
+
+.header{
+	padding-top: 10%;
+	text-align: center;
+	font-size: 5em;
+	color: white;
+	font-family: 'Luckiest Guy', cursive;
+}
+
+
+
+.btn-default{
+	margin-top: 5%;
+	/*margin-left: 10%;*/ 
+    color: white;
+    background-color: black;
+    font-family: 'Caveat', cursive;
+    font-size: 2.5em;
+
+}
+
+.btn-grou{text-align: center;}
+.butto{width: 35%;}
+.left{float: left;}
+.right{float: right;}
